@@ -1,0 +1,76 @@
+Archivo de texto
+
+Capacidad Maxima = 4
+
+Listado de AireAcondicionado:
+
+ID: 1234
+Marca: Philco
+Eficiencia energetica: A
+Porcentaje de fallas: 38
+Precio: 98555
+Tipo: FrioCalor
+El producto esta aprobado
+
+ID: 3774
+Marca: Samsung
+Eficiencia energetica: B
+Porcentaje de fallas: 45
+Precio: 55637
+Tipo: Frio
+El producto necesita ser revisado
+
+ID: 6978
+Marca: Whirlpool
+Eficiencia energetica: D
+Porcentaje de fallas: 72
+Precio: 14233
+Tipo: Deshumidificador
+El producto necesita ser revisado
+
+ID: 5778
+Marca: LG
+Eficiencia energetica: D
+Porcentaje de fallas: 10
+Precio: 72482
+Tipo: Frio
+El producto necesita ser revisado
+
+
+Capacidad Maxima = 4
+
+Listado de Microondas:
+
+ID: 1234
+Marca: Philco
+Eficiencia energetica: A
+Porcentaje de fallas: 38
+Precio: 98555
+Tamanio: Chico
+El producto esta aprobado
+
+ID: 3774
+Marca: Samsung
+Eficiencia energetica: B
+Porcentaje de fallas: 45
+Precio: 55637
+Tamanio: Grande
+El producto esta aprobado
+
+ID: 6978
+Marca: Whirlpool
+Eficiencia energetica: D
+Porcentaje de fallas: 72
+Precio: 14233
+Tamanio: Mediano
+El producto necesita ser revisado
+
+ID: 5778
+Marca: LG
+Eficiencia energetica: D
+Porcentaje de fallas: 10
+Precio: 72482
+Tamanio: Mediano
+El producto necesita ser revisado
+
+

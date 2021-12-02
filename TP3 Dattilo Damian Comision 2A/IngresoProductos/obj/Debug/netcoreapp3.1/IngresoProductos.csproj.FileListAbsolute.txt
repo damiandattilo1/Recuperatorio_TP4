@@ -1,0 +1,75 @@
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.exe
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.deps.json
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.runtimeconfig.json
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.runtimeconfig.dev.json
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.pdb
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csprojAssemblyReference.cache
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.GenerateResource.cache
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.AssemblyInfoInputs.cache
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.AssemblyInfo.cs
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.CoreCompileInputs.cache
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.pdb
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.genruntimeconfig.cache
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.Datos.resources
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.CopyComplete
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.FrmIngresoProductos.resources
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usu\source\repos\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csprojAssemblyReference.cache
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.FrmIngresoProductos.resources
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.GenerateResource.cache
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.AssemblyInfoInputs.cache
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.AssemblyInfo.cs
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.CoreCompileInputs.cache
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.pdb
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.exe
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.deps.json
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.runtimeconfig.json
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.runtimeconfig.dev.json
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.pdb
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.CopyComplete
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.genruntimeconfig.cache
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.FrmMostrarDatos.resources
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.exe
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.deps.json
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.runtimeconfig.json
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.runtimeconfig.dev.json
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\IngresoProductos.pdb
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csprojAssemblyReference.cache
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.FrmIngresoProductos.resources
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.FrmMostrarDatos.resources
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.GenerateResource.cache
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.AssemblyInfoInputs.cache
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.AssemblyInfo.cs
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.CoreCompileInputs.cache
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.csproj.CopyComplete
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.dll
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.pdb
+C:\Users\usu\Desktop\Recuperatorio_TP4\TP3 Dattilo Damian Comision 2A\IngresoProductos\obj\Debug\netcoreapp3.1\IngresoProductos.genruntimeconfig.cache
